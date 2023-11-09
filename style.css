@@ -1,0 +1,29 @@
+.center {
+    margin: auto;
+    width: 66%;
+  }
+h1 {text-align: center; font-size: 300%;}  
+h2 {font-size: 95%; color: rgb(121, 120, 120);font-family: 'Cormorant Garamond', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Pavanam', sans-serif;
+    font-family: 'Tajawal', sans-serif;}
+h3 {font-size: 110%; color: rgb(63, 60, 60)font-family: 'Cormorant Garamond', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Pavanam', sans-serif;
+    font-family: 'Tajawal', sans-serif;}
+h4 {font-size: 110%; color: rgb(63, 60, 60)font-family: 'Cormorant Garamond', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Pavanam', sans-serif;
+    font-family: 'Tajawal', sans-serif;}
+h5 {font-size: 110%; color: rgb(63, 60, 60)font-family: 'Cormorant Garamond', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Pavanam', sans-serif;
+    font-family: 'Tajawal', sans-serif;}
+h6 {font-size: 110%; color: rgb(63, 60, 60)font-family: 'Cormorant Garamond', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Pavanam', sans-serif;
+    font-family: 'Tajawal', sans-serif;}
+#i1 {margin-left: 14%; width: 70%;}
+
+
+
